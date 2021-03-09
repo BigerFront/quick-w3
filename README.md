@@ -1,22 +1,22 @@
 # qkui-w3
 
 ## Project setup
-```
-yarn install
+```bash
+yarn install # or npm install
 ```
 
 ### Compiles and hot-reloads for development
-```
+```bash
 yarn serve
 ```
 
 ### Compiles and minifies for production
-```
+```bash
 yarn build
 ```
 
 ### Run your unit tests
-```
+```bash
 yarn test:unit
 ```
 
